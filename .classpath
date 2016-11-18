@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="LO54/src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Ahmet/Desktop/org.eclipse.persistence.core_1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet/Desktop/org.eclipse.persistence.core_1.0.2.jar" sourcepath="Librairies/org.eclipse.persistence.core_1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmet/Desktop/MesDocuments/EtudesSuperieur/UTBM/3A/LO54/Projet_TP_LO54/Projet_LO54/Librairies/hibernate-core-3.5.6-Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

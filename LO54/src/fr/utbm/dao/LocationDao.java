@@ -10,7 +10,7 @@ public class LocationDao {
 		
 	}
 	
-	public Location getLocation(int idLocation){
+	public Location getLocation(int locationId){
 		return null;
 	}
 	public List<Location> getLocations(){

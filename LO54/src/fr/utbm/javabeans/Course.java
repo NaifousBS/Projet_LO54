@@ -13,7 +13,6 @@ public class Course {
 
 	/** The code. */
 	private int code;
-	
 	/** The title. */
 	private String title;
 

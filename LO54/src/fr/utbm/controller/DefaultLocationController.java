@@ -1,14 +1,18 @@
 package fr.utbm.controller;
 
+import java.util.List;
+
+import fr.utbm.javabeans.Location;
+
 public class DefaultLocationController {
 	public void registerLocation(){
 		
 	}
-	public void getLocations(){
-		
+	public List<Location> getLocations(){
+		return null;
 	}
-	public void getLocation(){
-		
+	public Location getLocation(int locationId){
+		return null;
 	}
 
 }

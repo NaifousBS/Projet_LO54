@@ -4,5 +4,7 @@
 	<classpathentry excluding="src/" kind="src" path=""/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="C:/Users/Souf/Documents/Cours_UTBM/LO54/Git/Projet_LO54/Librairies/org.eclipse.persistence.core_1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Souf/Documents/Cours_UTBM/LO54/Git/Projet_LO54/Librairies/derbyclient-10.12.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Souf/Documents/Cours_UTBM/LO54/Git/Projet_LO54/Librairies/hibernate-core-3.5.6-Final.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
